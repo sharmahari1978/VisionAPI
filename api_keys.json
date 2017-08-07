@@ -1,0 +1,9 @@
+{
+    "google" : "AIzaSyBBiR2A_DsL7lLTxS79A8BssWMBnQn4bcM",
+    "microsoft" : "87b79cae46fb4ecfb53ea7bf59bcedde",
+    "ibm" : "a390c4a5f499fe069682f74d88dd845e442d279e",
+    "cloudsight" : {
+        "api_key" : "q5Av98PTdo-qPAgTLW5Pbw",
+        "api_secret" : "rmGTIxw7H6DidGWpu1k5EQ"
+    }
+}
